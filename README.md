@@ -19,7 +19,7 @@ I created the **Paws & Claws Cafe** logo using **Adobe XD**.
 This is the landing page that sets the tone for the entire site.  
 _(Insert screenshot below)_
 
-![Home Screenshot](./images/home-placeholder.png)
+![Home Screenshot](./images/HomePage.png)
 
 ---
 
@@ -28,7 +28,7 @@ _(Insert screenshot below)_
 Here I explain the fictional purpose of Police Eyes and the team behind it.  
 _(Insert screenshot below)_
 
-![About Us Screenshot](./images/aboutus-placeholder.png)
+![About Us Screenshot](./images/AboutUsPage.png)
 
 ---
 
@@ -37,7 +37,7 @@ _(Insert screenshot below)_
 Image showcases with sleek layout and visual cohesion.  
 _(Insert screenshot below)_
 
-![Gallery Screenshot](./images/gallery-placeholder.png)
+![Gallery Screenshot](./images/GalleryPage.png)
 
 ---
 
@@ -46,7 +46,7 @@ _(Insert screenshot below)_
 Imaginary offerings for our kiosk technology concept.  
 _(Insert screenshot below)_
 
-![Products Screenshot](./images/products-placeholder.png)
+![Products Screenshot](./images/ProductsPage.png)
 
 ---
 
@@ -55,7 +55,7 @@ _(Insert screenshot below)_
 Basic form layout for visitors to reach out.  
 _(Insert screenshot below)_
 
-![Contact Screenshot](./images/contact-placeholder.png)
+![Contact Screenshot](./images/ContactUsPage.png)
 
 ---
 
