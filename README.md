@@ -58,6 +58,6 @@ A basic contact form layout for visitors to reach out or provide feedback.
 ## Thank You for Visiting! ⭐
 
 Thank you for viewing my project!  
-I really enjoyed working on this — both the creative and technical aspects!
+I really enjoyed working on this, both the creative and technical aspects!
 
 ![Thank You GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNkY3AwOGNlM3NwazRteDJ0bGZ5djl6dTB1anBvcDcwa3l0OTd5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VT3yQwbWhY5VAWpO39/giphy.gif)
