@@ -5,7 +5,7 @@ Welcome to my website project created for one of my **school assignments**, wher
 This project is called **Paws & Claws Cafe** — a fictional dog & cat cafe featuring a custom-designed logo to strengthen brand identity.  
 It was a fun blend of design creativity and technical layout planning!
 
----
+--- 
 
 ## Logo Design
 
